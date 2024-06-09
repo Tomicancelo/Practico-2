@@ -1,0 +1,7 @@
+C:\Users\Alumno\Desktop\Practico 2 ejercicio 3\Practico 2 ejercicio 3\bin\Debug\Practico 2 ejercicio 3.exe.config
+C:\Users\Alumno\Desktop\Practico 2 ejercicio 3\Practico 2 ejercicio 3\bin\Debug\Practico 2 ejercicio 3.exe
+C:\Users\Alumno\Desktop\Practico 2 ejercicio 3\Practico 2 ejercicio 3\bin\Debug\Practico 2 ejercicio 3.pdb
+C:\Users\Alumno\Desktop\Practico 2 ejercicio 3\Practico 2 ejercicio 3\obj\Debug\Practico 2 ejercicio 3.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Practico 2 ejercicio 3\Practico 2 ejercicio 3\obj\Debug\Practico 2 ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Practico 2 ejercicio 3\Practico 2 ejercicio 3\obj\Debug\Practico 2 ejercicio 3.exe
+C:\Users\Alumno\Desktop\Practico 2 ejercicio 3\Practico 2 ejercicio 3\obj\Debug\Practico 2 ejercicio 3.pdb
